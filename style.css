@@ -1,3 +1,6 @@
+.mid{
+    text-align: center;
+}
 .photo-album{
     display: flex;
     flex-wrap: wrap;
