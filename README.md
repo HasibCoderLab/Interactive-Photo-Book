@@ -21,9 +21,12 @@ A visually appealing and interactive photo album web application. This project d
 ## **Project Structure**
 
 
-├── index.html      # Main HTML file
-├── style.css       # CSS file for styling
-├── Images/         # Directory for images used in the album
+├── index.html  
+# Main HTML file
+├── style.css   
+ # CSS file for styling
+├── Images/  
+ # Directory for images used in the album
 
 
 ---
