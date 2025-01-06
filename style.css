@@ -4,6 +4,7 @@
 .photo-album{
     display: flex;
     flex-wrap: wrap;
+    cursor: pointer;
 }
 .photo-fram{
 width: 300px;
